@@ -70,7 +70,7 @@ if (apples > 12) {
 		}
 
 
-const nombre = 'Matheus'
+const nombre = 'Mateus'
 const edad = 3
 document.write(`Nome: ${nombre} Idade:${edad} Ano de nascimento:${2023 - edad} <br/>`)
 
